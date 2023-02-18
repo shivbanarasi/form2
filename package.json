@@ -1,0 +1,17 @@
+{
+  "name": "shiv",
+  "version": "1.0.0",
+  "description": "it is fitst node prog",
+  "main": "creating localhost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon creating_Localhost.js",
+    "start-server":"nodemon creating_Localhost"
+    
+  },
+  "author": "shiv",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
